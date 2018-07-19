@@ -1,0 +1,18 @@
+
+    h1 {
+    color: red;
+    font-size: 60px;
+    }
+
+    body {
+    background-color: green;
+    }
+
+    p {
+    color: blue;
+    font-family: Helvet;
+    }
+
+    img:hover {
+    border: 2px solid blue;
+    }
